@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>ProNiveau - Language Learning Platform</title>
+		<link type="text/css" rel="stylesheet" href="./css/fonts.css" />
+		<link type="text/css" rel="stylesheet" href="./css/materialize.min.css" />
+		<link type="text/css" rel="stylesheet" href="./css/styles.css" />		
+		<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+		<meta name="description" content="Proniveau provides structured guidance for independent preparation for language certifications." />
+		<meta name="keywords" content="language, learning, platform, german, certification, structured independent preparation"/>
+		<meta name="pragma" content="no-cache" />
+		<meta name="cache-control" content="no-store, no-cache, must-revalidate, post-check=0, pre-check=0, proxy-revalidate" />
+		<meta name="robots" content="index, follow"/>
+	</head>
+	<body id="app">
+		<main>
+			<div class="container">
+				<div class="x-content" v-html="html"></div>
+			</div>
+		</main>
+		<footer>
+			<div class="x-footer">
+				<a title="besuche das Facebook Profil" href="https://www.facebook.com/people/Proniveau/61590293253706/" target="_blank"><span v-html="facebook" /></a>
+				<a title="besuche das Instagram Profil" href="https://www.instagram.com/proniveau_platform/" target="_blank"><span v-html="instagram" /></a>			
+			</div>
+			<div class="x-footer"><small>© {{ date }} ProNiveau. Alle Rechte vorbehalten.</small></div>			
+		</footer>
+		<a class="x-button-top hide-on-med-and-up show-on-small" href="#">
+		  <i class="material-icons">arrow_drop_up</i>
+		</a>		
+		<div id="x-loader">		
+			<div class="preloader-wrapper big active" v-if="isLoading">
+			  <div class="spinner-layer spinner-blue-only">
+				<div class="circle-clipper left">
+				  <div class="circle"></div>
+				</div><div class="gap-patch">
+				  <div class="circle"></div>
+				</div><div class="circle-clipper right">
+				  <div class="circle"></div>
+				</div>
+			  </div>
+			</div>
+		</div>
+		<script type="text/javascript" src="./js/vue.global.prod.js"></script>
+		<script type="text/javascript" src="./js/axios.min.js"></script>
+		<script type="text/javascript" src="./js/markdown-it-container.min.js"></script>
+		<script type="text/javascript" src="./js/markdown-it.min.js"></script>
+		<script type="text/javascript" src="./js/materialize.min.js"></script>
+		<script type="text/javascript" src="./js/icons.js"></script>
+		<script type="text/javascript" src="./js/scripts.js"></script>
+		<script type="text/javascript" src="./js/config.js"></script>
+		<script type="text/javascript" src="./js/app.js"></script>
+	</body>
+</html>
