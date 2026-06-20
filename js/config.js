@@ -4,7 +4,7 @@ if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
 	}	
 } else if(location.hostname === "proniveau.github.io") {
 	var appConfig = {
-		'base': '',
+		'base': '/landingpage/',
 	}
 } else {
 	var appConfig = {
