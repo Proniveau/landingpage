@@ -1,4 +1,4 @@
-# ProNiveau Landingpage
+# ProNiveau landing page
 
 This is a simple landing page for ProNiveau. The content of the page is copyright protected.
 
