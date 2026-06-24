@@ -48,6 +48,8 @@ Schöpplerstr. 22\
 86154 Augsburg\
 Deutschland
 
+#### BREVO
+
 Zweck der Datenverarbeitung:\
 Deine E-Mail-Adresse wird ausschließlich zur Benachrichtigung über den Launch dieser Seite verwendet.
 
@@ -55,8 +57,25 @@ Datenverarbeiter:\
 Die Daten werden durch Brevo verarbeitet.\
 %%% balance %%% [Brevo-Datenschutzerklärung](https://www.brevo.com/de/legal/privacypolicy/)
 
-Ihre Rechte:\
+Deine Rechte:\
 Du kannst deine E-Mail jederzeit löschen lassen oder dem Erhalt von E-Mails widersprechen.
+
+#### GOOGLE SEARCH CONSOLE
+
+Wir nutzen Google Search Console zur Überwachung und Optimierung unserer Website. Google Search Console ermöglicht es uns, die Sichtbarkeit unserer Website in der Google-Suche zu überprüfen und technische Probleme zu erkennen.
+
+Bei der Nutzung von Google Search Console werden folgende Daten verarbeitet:
+
+- Such-Anfragen, über die Nutzer auf unsere Website gelangen
+- Click-Through-Raten und Impressionen in Suchergebnissen
+- Technische Crawl-Daten und Indexierungsstatus
+- Geräte- und Browser-Informationen
+
+Die Datenverarbeitung erfolgt auf Grundlage unseres berechtigten Interesses an der Optimierung unserer Website (Art. 6 Abs. 1 f DSGVO).
+
+Google ist als US-amerikanisches Unternehmen unter dem Data Processing Agreement (DPA) zertifiziert. Weitere Informationen zur Datenverarbeitung durch Google findest du in der %%% balance %%% [Google-Datenschutzerklärung](https://policies.google.com/privacy) und den %%% balance %%% [Google-Nutzungsbedingungen](https://policies.google.com/terms).
+
+Du kannst die Datenverarbeitung durch Google jederzeit unter myaccount.google.com/data-and-privacy verwalten.
 
 Kontakt:\
 %%% mail %%% pro-niveau-learning-platform@proton.me
