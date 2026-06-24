@@ -60,7 +60,7 @@ Die Daten werden durch Brevo verarbeitet.\
 Deine Rechte:\
 Du kannst deine E-Mail jederzeit löschen lassen oder dem Erhalt von E-Mails widersprechen.
 
-#### GOOGLE SEARCH CONSOLE
+#### GOOGLE SEARCH CONSOLE 
 
 Wir nutzen Google Search Console zur Überwachung und Optimierung unserer Website. Google Search Console ermöglicht es uns, die Sichtbarkeit unserer Website in der Google-Suche zu überprüfen und technische Probleme zu erkennen.
 
