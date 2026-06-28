@@ -1,10 +1,10 @@
 ::: panel
 
-![ProNiveau](images/proniveau.png#center)
+![ProNiveau](images/proniveau.svg#center "ProNiveau - Language Learning Platform")
 
 <br />
 
-%%% mail %%% [Kontakt](#content-1 "zum Kontakt") • %%% balance %%% [Datenschutzerklärung](#content-2 "zur Datenschutzerklärung") • %%% balance %%% [Impressum](#content-4 "zum Impressum")
+%%% mail %%% [Kontakt](#content-1 "zum Kontakt") • %%% balance %%% [Datenschutzerklärung](#content-2 "zur Datenschutzerklärung") • %%% balance %%% [Impressum](#content-7 "zum Impressum")
 
 # Coming Soon
 
@@ -28,11 +28,11 @@ Neugierig? Mehr erfährst du bald!
 
 Schreib uns eine Nachricht – wir freuen uns auf den Austausch mit dir!
 
-%%% mail %%% pro-niveau-learning-platform@proton.me
+%%% mail %%% platform@proniveau.eu
 
-[%%% facebook %%% Facebook](https://www.facebook.com/people/Proniveau/61590293253706/)
+[%%% facebook %%% Facebook](https://www.facebook.com/people/Proniveau/61590293253706/ "Facebook")
 
-[%%% instagram %%% Instagram](https://www.instagram.com/proniveau_platform/)
+[%%% instagram %%% Instagram](https://www.instagram.com/proniveau_platform/ "Instagram")
 
 :::
 
@@ -77,8 +77,8 @@ Google ist als US-amerikanisches Unternehmen unter dem Data Processing Agreement
 
 Du kannst die Datenverarbeitung durch Google jederzeit unter myaccount.google.com/data-and-privacy verwalten.
 
-Kontakt:\
-%%% mail %%% pro-niveau-learning-platform@proton.me
+#### KONTAKT
+%%% mail %%% platform@proniveau.eu
 
 :::
 
@@ -96,7 +96,7 @@ Schöpplerstr. 22\
 Deutschland
 
 Kontakt:\
-%%% mail %%% pro-niveau-learning-platform@proton.me
+%%% mail %%% platform@proniveau.eu
 
 :::
 
