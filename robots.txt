@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://proniveau.eu/sitemap.xml
+Sitemap: https://proniveau.eu/sitemap.txt
