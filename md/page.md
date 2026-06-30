@@ -4,7 +4,7 @@
 
 <br />
 
-%%% mail %%% [Kontakt](#content-1 "zum Kontakt") • %%% balance %%% [Datenschutzerklärung](#content-2 "zur Datenschutzerklärung") • %%% balance %%% [Impressum](#content-7 "zum Impressum")
+%%% mail %%% [Kontakt](#!content-1 "zum Kontakt") • %%% balance %%% [Datenschutzerklärung](#!content-2 "zur Datenschutzerklärung") • %%% balance %%% [Impressum](#!content-7 "zum Impressum")
 
 # Coming Soon
 

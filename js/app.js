@@ -7,7 +7,7 @@ const markdown = markdownit({
 let count = 0;
 markdown.renderer.rules.heading_open = function(tokens, idx) {
   const level = tokens[idx].tag;
-  return `<${level} id="content-${count++}">`;
+  return `<${level} id="!content-${count++}">`;
 };
 
 const app = Vue.createApp({
